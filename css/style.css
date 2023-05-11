@@ -187,7 +187,7 @@ button:hover {
   font-style: normal;
   font-weight: 700;
   line-height: 1em;
-  width: 7em;
+  /* width: 7em; */
 }
 
 /* ------------------SECTION DESCRIPTION-------------------- */
@@ -209,7 +209,7 @@ button:hover {
   font-style: normal;
   font-weight: 700;
   line-height: 1.6em;
-  width: 40%;
+  width: 50%;
 }
 
 .section--description__item {
@@ -245,7 +245,7 @@ button:hover {
   bottom: 21%;
   color: #000000;
   font-family: "Georgia", sans-serif;
-  font-size: 1.9em;
+  font-size: 1.7em;
   font-style: normal;
   font-weight: 700;
   left: 22%;
@@ -348,7 +348,6 @@ button:hover {
   font-style: normal;
   font-weight: 700;
   line-height: 1.6em;
-  width: 70%;
 }
 
 .section--review__video {
@@ -360,8 +359,6 @@ button:hover {
   flex-direction: column;
   gap: 2em;
 }
-
-/* ------------------SECTION REVIEW-------------------- */
 
 /* --------------- PRODUCT SECTION --------------- */
 
@@ -470,7 +467,7 @@ button:hover {
   font-style: normal;
   font-weight: 700;
   line-height: 1.6em;
-  width: 80%;
+  
 }
 
 .section--product__text {
